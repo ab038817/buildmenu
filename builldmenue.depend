@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538090740 source:c:\users\allie\onedrive\desktop\builldmenue\main.c
+	<stdio.h>
+	<stdlib.h>
+
